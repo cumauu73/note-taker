@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "test",
+    "text": "this is test note",
+    "id": 0.8705853468456857
+  },
+  {
+    "title": "cuma ugur",
+    "text": "note app heroku",
+    "id": 0.9255994223268411
+  },
+  {
+    "title": "heroku test",
+    "text": "note",
+    "id": 0.4513434477296179
+  }
+]
