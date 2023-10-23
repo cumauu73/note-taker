@@ -2,8 +2,8 @@ const router = require('express').Router()
 const path = require('path')
 const { writeFileSync, readFileSync } = require('fs')
 const dataPath = path.join(__dirname, '..', 'db', 'db.json')
-const { generateId } = require('../lib/generate-id')
-const readAndParseFile = require('../lib/read-parse')
+const { generateId } = require('../utils/generateId')
+const readAndParseFile = require('../utils/readAndParseFile')
 
 // API Routes
 

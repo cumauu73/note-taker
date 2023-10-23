@@ -1,5 +1,5 @@
 const router = require('express').Router()
-const viewRoutes = require('./show')
+const viewRoutes = require('./views')
 const noteApiRoutes = require('./notes')
 
 // api routes
